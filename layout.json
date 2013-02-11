@@ -1,24 +1,4 @@
-                                                                          "WidgetClass": "CFTSlideshowWidget",
-                                                                          "Datasource": "SlidesData",
-                                                                          "ButtonWidgetIndex": 0,
-                                                                          "Enabled" : true,
-                                                                          "PortraitFrame": "0, 0, 1024, 618",
-                                                                          "LandscapeFrame": "0, 0, 1024, 618",
-                                                                          "EntityID":"homeSlides",  // Theme
-                                                                          "Actions":
-                                                                          {
-                                                                            "ImageClicked": "slideshowClicked:",
-                                                                            "ImageChanged": "imageChanged:"
-                                                                          }
-                                                                          },
-                                                                          
-                                                                          ]
-                                           }
-                                           
-                                           ]
-        }
-    },
-    ///////////////////////////////////// HEADER AND BOTTOM TAB MENU ////////////////////////////////////
+     ///////////////////////////////////// HEADER AND BOTTOM TAB MENU ////////////////////////////////////
     "MainFrameViewController": {
         "EntityType": "CFTLayout",
         "ID": "RootLayout",
